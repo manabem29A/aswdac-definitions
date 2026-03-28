@@ -3,9 +3,9 @@ Resources:
     Presets:
       DirectConnect:
         Icon:
-          Name: networking-content-delivery/direct-connect
+          Name: networking-content-delivery/AWS-Direct-Connect
   AWS::DirectConnect::Gateway:
     Presets:
     　DirectConnectGateway:
         Icon:
-          Name: networking-content-delivery/direct-connect-gateway
+          Name: networking-content-delivery/AWS-Direct-Connect-Gateway
